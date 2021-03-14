@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Shaleen Nursoleha Huzzeini
+                    Shaleen Nursoleha
                 </div>
 
                 <div class="links">
